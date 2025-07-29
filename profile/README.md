@@ -1,4 +1,16 @@
-## Hi there 👋
+# Always Be Shipping
+
+A consultant and research organization focused on blockchain technologies and the greater web3 ecosystem.
+
+[Homepage](https://alwaysbeshipp.ing/)
+
+[Projects](https://alwaysbeshipp.ing/projects)
+
+[HackMD](https://hackmd.io/@always-be-shipping)
+
+## Contact Us
+
+[twitter](https://x.com/alwaysbeshippn) (we don't use this account much, but feel free to DM)
 
 <!--
 
